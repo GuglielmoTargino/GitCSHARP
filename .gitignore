@@ -1,0 +1,11 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsidx
+*.log
+*.tmp
+*.bak
+packages/
+*.nupkg
