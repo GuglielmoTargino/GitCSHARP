@@ -19,7 +19,7 @@ Versão: v2
 Escopo;
 construa um sistema de cadastro com os seguintes formulários:
 
-tela inicial
+tela inicial e principal outra vez
 dados pessoais ( com radio buttons - sexo)
 documentação
 interesses ( checkbox)
